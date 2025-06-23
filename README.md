@@ -46,3 +46,37 @@ CREATE TABLE Borrow_Transactions (
 );
 
 
+1. What is normalization?
+It is the process of organizing data to reduce duplication and improve consistency.
+
+2. Explain primary vs foreign key.
+A primary key uniquely identifies a row, while a foreign key links one table to another.
+
+3. What are constraints?
+Rules applied to table columns to control what data can be stored.
+
+4. What is a surrogate key?
+An auto-generated unique ID used as a primary key.
+
+5. How do you avoid data redundancy?
+By using normalization, separate tables, and foreign keys.
+
+6. What is ER diagram?
+A visual diagram that shows tables, their fields, and how they are connected.
+
+7. What are the types of relationships in DBMS?
+One-to-One, One-to-Many, and Many-to-Many.
+
+8. Explain the purpose of AUTO_INCREMENT.
+It automatically gives a unique number to each new row in a table.
+
+9. What is the default storage engine in MySQL?
+InnoDB, which supports transactions and foreign keys.
+
+10. What is a composite key?
+A primary key made using two or more columns together.
+
+
+
+
+
